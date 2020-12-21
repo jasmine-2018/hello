@@ -33,3 +33,4 @@ jobs:
       run: |
         echo "add A1 at dev"
         echo "edit A1 at dev 222"
+        echo "edit A1 at test"
