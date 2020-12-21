@@ -34,3 +34,6 @@ jobs:
         echo "add A1 at dev"
         echo "edit A1 at dev 222"
         echo "edit A1 at test"
+    - name: new task
+      run: |
+        echo "new task at dev"
