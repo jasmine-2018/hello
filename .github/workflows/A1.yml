@@ -32,4 +32,4 @@ jobs:
     - name: GITHUB envs
       run: |
         echo "add A1 at dev"
-        echo "edit A1 at test"
+        echo "edit A1 at test 222"
